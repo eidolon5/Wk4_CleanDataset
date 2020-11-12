@@ -1,13 +1,18 @@
-=======================================================================
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
 Human Activity Recognition Using Smartphones Summary Dataset
 Version 1.0
-=======================================================================
+
 Author: S. Vacik
-=======================================================================
+
 
 The summary dataset was created using the Human Activity Recognition (HAR) Using Smartphones Dataset as offered by the University of California in Irvine (UCI) for the purpose of demonstrating skills in getting and cleaning data. 
 
-=======================================================================
+
 Background of the HAR Dataset
 
 The full HAR dataset was created through experimentation by Jorge L. Reyes-Ortiz, David Anguita, Alessandro Ghio, and Luca Oneto -- a collaboration between Smartlab (Non Linear Complex Systems Laboratory)
@@ -28,7 +33,7 @@ See the following files from the HAR dataset for more information: README.txt, f
 
 Source URL:http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-======================================================================
+
 HAR Dataset Summarization Methodology
 
 The HAR Summary Dataset was produced to provide easily accessible averages of the mean and standard deviation (std) measurements in three dimensional (3D) space for  each activity and each subject.  
